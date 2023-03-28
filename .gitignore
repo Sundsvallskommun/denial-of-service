@@ -51,3 +51,6 @@ target/
 # Spring
 application-default.properties
 
+# Logs
+*.log
+
