@@ -1,13 +1,8 @@
 # Denial-Of-Service
 
-## Leverantör
-
-Sundsvalls kommun
-
 ## Beskrivning
 Denial-Of-Service är ett verktyg som är konstruerat för att lasttesta tjänster via HTTP-GET eller HTTP-POST.
 Verktyget är baserat på [Gatling](https://gatling.io/)
-
 
 ## Tekniska detaljer
 
@@ -34,6 +29,19 @@ Kör detta script och följ sedan scriptets instruktioner:
 ```
 ./run.sh
 ```
+
+## Leverantör
+
+Sundsvalls kommun
+
+## Status
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=alert_status)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=reliability_rating)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=security_rating)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=sqale_rating)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=vulnerabilities)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=bugs)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
 
 ## 
 Copyright (c) 2021 Sundsvalls kommun
