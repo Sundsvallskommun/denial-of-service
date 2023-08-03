@@ -30,10 +30,6 @@ Kör detta script och följ sedan scriptets instruktioner:
 ./run.sh
 ```
 
-## Leverantör
-
-Sundsvalls kommun
-
 ## Status
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=alert_status)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
