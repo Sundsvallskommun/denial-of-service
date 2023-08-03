@@ -40,4 +40,4 @@ Kör detta script och följ sedan scriptets instruktioner:
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Sundsvallskommun_denial-of-service&metric=bugs)](https://sonarcloud.io/summary/overall?id=Sundsvallskommun_denial-of-service)
 
 ## 
-Copyright (c) 2021 Sundsvalls kommun
+Copyright (c) 2023 Sundsvalls kommun
